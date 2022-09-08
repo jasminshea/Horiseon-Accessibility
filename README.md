@@ -1,5 +1,4 @@
 # Horiseon-Accessibility
-THe objective of this modification is to improve accessibility of the preexisting Horiseon webpage.
 
 ## User Story
 
