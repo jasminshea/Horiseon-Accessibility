@@ -9,18 +9,11 @@ THe objective of this modification is to improve accessibility of the preexistin
 
 ## Acceptance Criteria: 
 
-* It's done when 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+* It's done when the webpage meets accessibility standards.
+* It's done when semantic html elements can be found throughout the document
+* It's done when HTML elements follow a logical structure independent of styling and positioning
+* It's done when all images and icons possess descriptive and accurate alt attributes.
+* It is done when I find a concise, descriptive title
 
 ## Mock-up: 
 ![image](https://user-images.githubusercontent.com/109838381/189127902-3fb91557-e697-4055-b414-16af031ccf96.png)
